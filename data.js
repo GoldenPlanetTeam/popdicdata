@@ -5,11 +5,11 @@ const POP_DATA = {
       "name": "School",
       "image": "https://img.icons8.com/color/96/school-building.png",
       "vocabs": [
-        {
-          "image": "https://img.icons8.com/color/96/book.png",
-          "en": "Book",
-          "ar": "كتاب"
-        },
+    {
+      "image": "https://pngtree.com/freepng/programmers-everyday-cartoon-illustration_4204300.html",
+      "en": "Routin",
+      "ar": "روتين"
+    },
         {
           "image": "https://img.icons8.com/color/96/pencil.png",
           "en": "Pencil",
