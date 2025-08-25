@@ -6,8 +6,8 @@ const POP_DATA = {
       "image": "https://img.icons8.com/color/96/school-building.png",
       "vocabs": [
     {
-      "image": "https://pngtree.com/freepng/programmers-everyday-cartoon-illustration_4204300.html",
-      "en": "Routin",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.963KG6EXAZkgbu5dzNt0FQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "en": "Routine",
       "ar": "روتين"
     },
         {
