@@ -61,5 +61,21 @@ const POP_DATA = {
       ],
       "expressions": []
     }
+    [
+  {
+    "id": "mix",
+    "name": "mix",
+    "image": "https://th.bing.com/th/id/R.b2ac6dbf4d20af6b903357d7a40fd71e?rik=9C6HNrbx459mwg&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "vocabs": [
+    {
+      "image": "https://tse4.mm.bing.net/th/id/OIP.lXY0S9-UdgDBuQtd3ta6XwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "en": "Skyscrapers",
+      "ar": "ناطحات سحاب"
+    }],
+    "verbs": [],
+    "expressions": []
+  }
+]
   ]
+  
 };
