@@ -1,0 +1,31 @@
+  // Example dictionary
+  const dictionary = {
+    "le père": "father",
+    "la mère": "mother",
+    "la famille": "family",
+    "la grand-mère": "grandmother",
+    "le grand-père": "grandfather",
+    "le Français": "French",
+    "le frère": "brother",
+    "la sœur": "sister",
+    "le cousin": "cousin",
+    "la cousine": "cousin (female)",
+    "l'oncle": "uncle",
+    "la tante": "aunt",
+    "le garçon": "boy",
+    "la fille": "girl",
+    "l'enfant": "child",
+    "l'enfante": "child (female)"   ,
+  "monde": "world",
+  "quoi": "what",
+  "pourquoi": "why",
+  "qui": "who",
+  "comment": "how",
+  "où": "where",
+  "combien": "how much , how many",
+    "quand": "when",
+  "depuis quand": "since when , how long",
+  "quel": "which"
+,  "quel": "which (female)",
+
+  };
