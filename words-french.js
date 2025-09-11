@@ -1,5 +1,20 @@
   // Example dictionary
   const dictionary = {
+    
+  "jeunes": "young",
+  "de": "of",
+  "francophones": "French speakers",
+  "les yeux": "the eyes",
+  "cheveux": "hair",
+  "aussi": "also",
+  "en ligne": "online",
+  "surtout": "especially",
+  "contre": "against , vs",
+  "On": "we( street language )",
+  "les jeux vidéo": "video games",
+  "assez": "enough",
+  "grand , grande": "tall",
+  "beaucoup": "a lot",
     "père": "father",
     "une mère": "mother",
     "famille": "family",
