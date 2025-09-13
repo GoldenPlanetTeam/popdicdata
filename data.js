@@ -6,17 +6,17 @@ const POP_DATA = {
       "image": "https://giasutienganhhanoi.com/wp-content/uploads/2023/02/Cambridge-9-Global-English-LB.png",
       "vocabs": [
         {
-          "image": "https://img.icons8.com/color/96/chat.png",
+          "image": "https://i.ibb.co/whSc4NrS/Whats-App-Image-2025-09-13-at-13-35-45-cc657357.jpg",
           "en": "Interrupt",
           "ar": "يقاطع - to speak while someone else is speaking"
         },
         {
-          "image": "https://img.icons8.com/color/96/compare.png",
+          "image": "https://i.ibb.co/F4MX1x00/Whats-App-Image-2025-09-13-at-13-35-46-f158abbc.jpg",
           "en": "Compare",
           "ar": "يقارن - to look at the ways things are similar or different"
         },
         {
-          "image": "https://img.icons8.com/color/96/distract.png",
+          "image": "https://i.ibb.co/PGdLynRS/Whats-App-Image-2025-09-13-at-13-35-46-45622221.jpg",
           "en": "Distract",
           "ar": "يلهي - to take someone’s attention away from something"
         },
@@ -51,12 +51,12 @@ const POP_DATA = {
           "ar": "يركز - to give all your attention to something"
         },
         {
-          "image": "https://img.icons8.com/color/96/interview.png",
+          "image": "https://i.ibb.co/Y79Hzjj3/interview.png",
           "en": "Interview",
           "ar": "مقابلة - a formal meeting in which someone asks another person questions"
         },
         {
-          "image": "https://img.icons8.com/color/96/news.png",
+          "image": "https://i.ibb.co/Xx6wgy3V/Whats-App-Image-2025-09-13-at-13-35-45-f8ce969a.jpg",
           "en": "Journalist",
           "ar": "صحفي - a person whose job is to write or report news for newspapers, TV, or radio"
         }
