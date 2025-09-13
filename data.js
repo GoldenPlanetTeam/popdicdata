@@ -56,7 +56,7 @@ const POP_DATA = {
           "ar": "مقابلة - a formal meeting in which someone asks another person questions"
         },
         {
-          "image": "https://i.ibb.co/Xx6wgy3V/Whats-App-Image-2025-09-13-at-13-35-45-f8ce969a.jpg",
+          "image": "https://i.ibb.co/spZMm83t/announcer.png",
           "en": "Journalist",
           "ar": "صحفي - a person whose job is to write or report news for newspapers, TV, or radio"
         }
