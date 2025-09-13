@@ -8,57 +8,57 @@ const POP_DATA = {
         {
           "image": "https://img.icons8.com/color/96/chat.png",
           "en": "Interrupt",
-          "ar": "تتكلم بينما شخص آخر يتكلم - to speak while someone else is speaking"
+          "ar": "يقاطع - to speak while someone else is speaking"
         },
         {
           "image": "https://img.icons8.com/color/96/compare.png",
           "en": "Compare",
-          "ar": "تنظر إلى أوجه الشبه أو الاختلاف بين الأشياء - to look at the ways things are similar or different"
+          "ar": "يقارن - to look at the ways things are similar or different"
         },
         {
           "image": "https://img.icons8.com/color/96/distract.png",
           "en": "Distract",
-          "ar": "تسحب انتباه شخص عن شيء ما - to take someone’s attention away from something"
+          "ar": "يلهي - to take someone’s attention away from something"
         },
         {
           "image": "https://img.icons8.com/color/96/idea.png",
           "en": "Encourage",
-          "ar": "تجعل شخصًا يؤمن أنه يستطيع أن يفعل شيئًا - to make someone believe they can do something"
+          "ar": "يشجع - to make someone believe they can do something"
         },
         {
           "image": "https://img.icons8.com/color/96/angry.png",
           "en": "Tell someone off",
-          "ar": "توبّخ شخصًا لأنه فعل شيئًا خاطئًا - to speak angrily to someone because they have done something wrong"
+          "ar": "يوبخ - to speak angrily to someone because they have done something wrong"
         },
         {
           "image": "https://img.icons8.com/color/96/error.png",
           "en": "Get into trouble",
-          "ar": "تدخل في مشكلة نتيجة فعل خاطئ - to be in a situation where you have done something wrong"
+          "ar": "يتورط - to be in a situation where you have done something wrong"
         },
         {
           "image": "https://img.icons8.com/color/96/share.png",
           "en": "Share",
-          "ar": "تُطلع الآخرين على ما لديك أو تفكر فيه - to let other people know what you have"
+          "ar": "يشارك - to let other people know what you have"
         },
         {
           "image": "https://img.icons8.com/color/96/task.png",
           "en": "Be supposed to",
-          "ar": "من المتوقع منك أن تفعله - people expect you to do it"
+          "ar": "متوقع - people expect you to do it"
         },
         {
           "image": "https://img.icons8.com/color/96/focus.png",
           "en": "Concentrate on",
-          "ar": "تركّز كل انتباهك على شيء - to give all your attention to something"
+          "ar": "يركز - to give all your attention to something"
         },
         {
           "image": "https://img.icons8.com/color/96/interview.png",
           "en": "Interview",
-          "ar": "مقابلة رسمية يوجّه فيها شخص أسئلة لشخص آخر - a formal meeting in which someone asks another person questions"
+          "ar": "مقابلة - a formal meeting in which someone asks another person questions"
         },
         {
           "image": "https://img.icons8.com/color/96/news.png",
           "en": "Journalist",
-          "ar": "شخص يعمل في كتابة أو نقل الأخبار للصحف أو التلفزيون أو الراديو - a person whose job is to write or report news for newspapers, TV, or radio"
+          "ar": "صحفي - a person whose job is to write or report news for newspapers, TV, or radio"
         }
       ],
       "verbs": [],
