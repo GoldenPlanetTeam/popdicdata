@@ -6,7 +6,7 @@ const POP_DATA = {
       "image": "https://giasutienganhhanoi.com/wp-content/uploads/2023/02/Cambridge-9-Global-English-LB.png",
       "vocabs": [
         {
-          "image": "https://i.ibb.co/whSc4NrS/Whats-App-Image-2025-09-13-at-13-35-45-cc657357.jpg",
+          "image": "https://i.ibb.co/ynN701dT/Whats-App-Image-2025-09-13-at-13-35-45-cc657357.jpg",
           "en": "Interrupt",
           "ar": "يقاطع - to speak while someone else is speaking"
         },
