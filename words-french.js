@@ -5,6 +5,7 @@
 "bonsoir": "good evening",
 "bonne nuit": "good night",
 "salut": "hello",
+"musique": "music",
 "au revoir": "goodbye",
 "à demain": "see you tomorrow",
 "à bientôt": "see you soon"
