@@ -1,6 +1,14 @@
   // Example dictionary
   const dictionary = {
-    
+    "bonjour": "good morning",
+"bon après-midi": "good afternoon",
+"bonsoir": "good evening",
+"bonne nuit": "good night",
+"salut": "hello",
+"au revoir": "goodbye",
+"à demain": "see you tomorrow",
+"à bientôt": "see you soon"
+,
   "jeunes": "young",
   "de": "of",
   "francophones": "French speakers",
