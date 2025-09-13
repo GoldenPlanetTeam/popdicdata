@@ -8,7 +8,7 @@
   "préférer (groupe 1)": "to prefer",  "être (groupe 3)": "to be",
   "avoir (groupe 3)": "to have",
   "habiter (groupe 1)": "to live",
-  "s'appeller (groupe 1)": "to be called",
+  "sappeller (groupe 1)": "to be called",
     
   
 
